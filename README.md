@@ -37,8 +37,7 @@
 
 <p float="left">
 <img src="https://raw.githubusercontent.com/Natasha-Warder/Freelance-Design/refs/heads/main/Painting3.png" alt="Print Design" width="300"/>
-<img src="https://raw.githubusercontent.com/Natasha-Warder/Freelance-Design/refs/heads/main/Painting4.png" alt="Print Design" width="350"/>
-<img src="https://raw.githubusercontent.com/Natasha-Warder/Freelance-Design/refs/heads/main/Painting1.png" alt="Print Design" width="300"/>
+<img src="https://raw.githubusercontent.com/Natasha-Warder/Freelance-Design/refs/heads/main/Painting1.png" alt="Print Design" width="320"/>
 </p>
 
 
