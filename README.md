@@ -9,7 +9,7 @@
 
 <p float="left">
 <img src="https://raw.githubusercontent.com/Natasha-Warder/Freelance-Design/refs/heads/main/edelmanstaff4.PNG" alt="staff photo" width="535"/>
-<img src="https://raw.githubusercontent.com/Natasha-Warder/Freelance-Design/refs/heads/main/edelmanstaff_1.PNG" alt="staff photo" width="530"/>
+<img src="https://raw.githubusercontent.com/Natasha-Warder/Freelance-Design/refs/heads/main/edelmanstaff_1.PNG" alt="staff photo" width="525"/>
 </p>
 
 
