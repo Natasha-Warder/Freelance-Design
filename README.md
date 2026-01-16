@@ -15,6 +15,17 @@
 
 
 ### Personalised Content
+<p float="left">
+<img src="https://raw.githubusercontent.com/Natasha-Warder/Freelance-Design/refs/heads/main/Repetition.png" alt="personal" width="200"/>
+<img src="https://raw.githubusercontent.com/Natasha-Warder/Freelance-Design/refs/heads/main/Portrait.JPG" alt="personal" width="165"/>
+  <img src="https://raw.githubusercontent.com/Natasha-Warder/Freelance-Design/refs/heads/main/Light.png" alt="personal" width="200"/>
+  <img src="https://raw.githubusercontent.com/Natasha-Warder/Freelance-Design/refs/heads/main/Perspective.png" alt="personal" width="200"/>
+  <img src="https://raw.githubusercontent.com/Natasha-Warder/Freelance-Design/refs/heads/main/Reflection.png" alt="personal" width="200"/>
+
+  <img src="https://raw.githubusercontent.com/Natasha-Warder/Freelance-Design/refs/heads/main/Candid.png" alt="personal" width="380"/>
+  <img src="https://raw.githubusercontent.com/Natasha-Warder/Freelance-Design/refs/heads/main/Focus.JPG" alt="personal" width="400"/>
+
+</p>
 
 
 
