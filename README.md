@@ -3,7 +3,7 @@
 ### Edelman Staff Photos
 
 <p float="left">
-<img src="https://raw.githubusercontent.com/Natasha-Warder/Freelance-Design/refs/heads/main/edelmanstaff3.JPEG" alt="staff photo" width="300"/>
+<img src="https://raw.githubusercontent.com/Natasha-Warder/Freelance-Design/refs/heads/main/edelmanstaff3.JPEG" alt="staff photo" width="270"/>
 <img src="https://raw.githubusercontent.com/Natasha-Warder/Freelance-Design/refs/heads/main/edelmanstaff_2.jpg" alt="staff photo" width="250"/>
 </p>
 
