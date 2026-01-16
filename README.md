@@ -38,5 +38,4 @@
 <img src="https://raw.githubusercontent.com/Natasha-Warder/Freelance-Design/refs/heads/main/Painting2.png" alt="Print Design" width="300"/>
 <img src="https://raw.githubusercontent.com/Natasha-Warder/Freelance-Design/refs/heads/main/Painting3.png" alt="Print Design" width="300"/>
 <img src="https://raw.githubusercontent.com/Natasha-Warder/Freelance-Design/refs/heads/main/Painting4.png" alt="Print Design" width="300"/>
-<img src="https://raw.githubusercontent.com/Natasha-Warder/Freelance-Design/refs/heads/main/Painting5.png" alt="Print Design" width="300"/>
 </p>
