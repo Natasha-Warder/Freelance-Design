@@ -1,3 +1,3 @@
 # Freelance-Design
 ## Painting & Print Design
-![Painting1](https://github.com/user-attachments/assets/ba623574-7fd8-4229-bd0d-6dc56db29750)
+![Print Design](https://raw.githubusercontent.com/Natasha-Warder/Freelance-Design/refs/heads/main/print%20design.png)
